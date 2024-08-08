@@ -1,55 +1,96 @@
+## Information
+
 <div align="center">
-<a href="https://youtube.com/@galeri_car_cpm8048?si=z3xBPRP0QY3hFfBe">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+CpmJhon;Welcome+to+my+GitHub+😊"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+<a href="https://github.com/nazedev/hitori/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/nazedev/hitori?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/nazedev/hitori/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nazedev/hitori?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/nazedev/hitori/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/nazedev/hitori?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/nazedev/hitori/issues"><img title="Issues" src="https://img.shields.io/github/issues/nazedev/hitori?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/nazedev/hitori/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/nazedev/hitori?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/nazedev/hitori/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/nazedev/hitori?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/nazedev/hitori/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/nazedev/hitori?label=PullRequest&color=red&style=flat-square"></a>
 </div>
 
-### Current activities 
-- 👨‍💻 I am Not a Programmer
-- 🌱 I am currently learning JavaScript
-- 🎯 Play Genshin Impact With Me? ID 827837081
-- 📧 My Business Email cpmjho@gmail.com
-- 💰 Donate For Me [Saweria](https://saweria.co/CpmJhon) 
+This script is created by [Nazedev](https://github.com/nazedev) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library. The script is currently in the development phase (BETA), so there may still be some errors that can be ignored. If errors persist even after debugging, please contact the owner for assistance. ~ By Naze
+
+## Contributor
+
+- [NazeDev](https://github.com/nazedev) (Pembuat)
+- [Zaynn](https://github.com/ZaynRcK) (Penyedia Layanan API)
+- [Dani](https://github.com/nazedev) (Penyumbang Code)
+
+#### Join Group
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R) 
+
+---
+#### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nazedev/hitori)
+
+#### Heroku Buildpack
+| Build Pack | LINK |
+|--------|--------|
+| **NODEJS** | heroku/nodejs |
+| **FFMPEG** | [here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **WEBP** | [here](https://github.com/clhuang/heroku-buildpack-webp-binaries.git) |
+| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+
+---
+## For Windows/VPS/RDP User
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+
+```bash
+git clone https://github.com/nazedev/hitori
+cd hitori
+npm install
+npm update
+```
+---
+## For Termux/Ubuntu/SSH User
+```bash
+pkg update && pkg upgrade
+pkg install git
+pkg install nodejs
+pkg install ffmpeg
+pkg install imagemagick
+git clone https://github.com/nazedev/hitori
+cd hitori
+npm install
+```
+
+[ RECOMMENDED INSTALL ON TERMUX ]
+```bash
+pkg install yarn
+yarn
+```
+
+---
+
+## Run
+```bash
+node .
+```
+---
+
+### Connection Options
+- Support Qr Code
+- Support Pairing Code
+---
+
+### Features
+| Menu     | Bot | Group | Search | Download | Tools | Ai | Game | Fun | Owner |
+| -------- | --- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- |
+| Work     |  ✅  |   ✅   |    ✅    |     ✅     |   ✅   | ✅ |   ✅   |  ✅  |    ✅    |
 
 
-### Connect with me ☎️
-<h4 align="center">Visitor's Count :</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{cpmjhon}/count.svg" alt="CpmJhon :: Visitor's Count" /></p>
-<p align="center"><img src="https://count.getloli.com/get/@cpmjhon-github-readme?theme=rule34" /></p>
-<p align="center">
-  <a href="https://instagram.com/cpm_jhon"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285894955362"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://t.me/MIKUMIKI"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/@galeri_car_cpm8048"><img src="https://img.shields.io/badge/YouTube-Jhon -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@CpmJhon" /><br>
-  <a href="https://github.com/cpmjhon"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/@galeri_car_cpm8048?si=sUGwd4vjZhBtoLDE"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3nSFp__z1oRxm-fA?style=social" /> <br>
-  <a name=CpmJhon&label=VIEWS&style=flat-square&color=orange" />
-</p>
+License: [MIT](https://choosealicense.com/licenses/mit/)
 
-### Github Stats 🚀
+#### Support Me
+- [Saweria](https://saweria.co/naze)
 
-<p align="center"><a href="https://github.com/cpmjhon"><img src="https://github-readme-stats.vercel.app/api?username=cpmjhon&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/cpmjhon"><img src="https://streak-stats.demolab.com/?user=cpmjhon&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/CpmJhon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpmjhon&theme=chartreuse-dark&layout=compact"></a></p> 
+## Thanks to
 
-### Repo Stats 🔭
-<p align=""><a href="https://github.com/cpmjhon/CpmJhon-md"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CpmJhon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/cpmjhon/jhon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CpmJhon&repo=CpmJhon&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/cpmjhon/jhon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cpmjhon&repo=cpmjhon&theme=chartreuse-dark"></a></p>
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-<p align="center"><a href="https://github.com/cpmjhon"><img src="https://github-profile-trophy.vercel.app/?username=cpmjhon"></a></p>
-
-</details>
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-<p align="center"><a href="https://github.com/cpmjhonev"><img src="https://metrics.lecoq.io/cpmjhon?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta"></a></p>
-
-</details> 
+| [![Nazedev](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [![Dani](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
+| --- | --- | --- | --- |
+| [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
