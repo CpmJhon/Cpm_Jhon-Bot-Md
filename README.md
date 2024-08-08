@@ -22,7 +22,7 @@
 <p align="center"><img src="https://count.getloli.com/get/@cpmjhon-github-readme?theme=rule34" /></p>
 <p align="center">
   <a href="https://instagram.com/cpm_jhon"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285849955362"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/6285894955362"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://t.me/MIKUMIKI"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://youtube.com/@galeri_car_cpm8048"><img src="https://img.shields.io/badge/YouTube-Jhon -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@CpmJhon" /><br>
   <a href="https://github.com/cpmjhon"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
@@ -37,7 +37,7 @@
 <p align="center"><a href="https://github.com/CpmJhon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpmjhon&theme=chartreuse-dark&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-<p align=""><a href="https://github.com/cpmjhon/CpmJhon-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cpmjhon&repo=cpmjhon-md&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/cpmjhon/CpmJhon-md"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CpmJhon&layout=compact&langs_count=8&card_width=320"></a></p>
 <p align=""><a href="https://github.com/cpmjhon/jhon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cpmjhon&repo=CpmJhon&theme=chartreuse-dark"></a></p>
 <p align=""><a href="https://github.com/cpmjhon/jhon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cpmjhon&repo=cpmjhon&theme=chartreuse-dark"></a></p>
 
