@@ -37,7 +37,7 @@
 <p align="center"><a href="https://github.com/CpmJhon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpmjhon&theme=chartreuse-dark&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-<p align=""><a href="https://github.com/cpmjhon/CpmJhon-md"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CpmJhon&layout=compact&langs_count=8&card_width=320"></a></p>
+<p align=""><a href="https://github.com/cpmjhon/CpmJhon-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CpmJhon&repo=github-readme-stats"></a></p>
 <p align=""><a href="https://github.com/cpmjhon/jhon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cpmjhon&repo=CpmJhon&theme=chartreuse-dark"></a></p>
 <p align=""><a href="https://github.com/cpmjhon/jhon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cpmjhon&repo=cpmjhon&theme=chartreuse-dark"></a></p>
 
