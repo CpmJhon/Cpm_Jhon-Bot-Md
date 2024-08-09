@@ -92,6 +92,6 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Thanks to
 
-| [![Nazedev](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [![Dani](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) | [![CpmJhon](https://github.com/CpmJhon.png?size=100)](https://github.com/CpmJhon) | 
+| [![Nazedev](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [![Dani](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) | [![CpmJhon](https://github.com/CpmJhon.png?size=50)](https://github.com/CpmJhon) | 
 | --- | --- | --- | --- |
 | [CpmJhon](https://github.com/CpmJhon) | [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
